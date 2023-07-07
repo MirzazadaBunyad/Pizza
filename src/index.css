@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+#logo { height: 80px; }
+.card-text-height { min-height: 100px;}
+.thumb { width: 60px }
+.short {max-width: 30px}
